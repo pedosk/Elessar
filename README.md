@@ -1,6 +1,6 @@
 # Chars74K
 
-##How to run
+How to run
 
 1. Download Anaconda program (https://www.anaconda.com/download)
 2. Clone or download the project from GitHub to your computer
